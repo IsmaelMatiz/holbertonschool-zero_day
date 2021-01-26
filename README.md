@@ -1,4 +1,5 @@
 **ZERO DAY**
+
 **What is a zero Day**
 In a bit words, it's when a vulnerability is unknown is discovered until
 a patch is put it for fix this problem
